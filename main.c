@@ -128,8 +128,6 @@ FILE* writeTheFile(FILE *fPtr)
 
 }
 
-// WE Did this in class. the only difference is that we pass FILE *
-// and return FILE * to get the changes to our local variable
 FILE* readTheFile(FILE *fPtr)
 {
 	Customer cust;
