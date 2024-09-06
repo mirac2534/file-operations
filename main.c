@@ -98,7 +98,6 @@ FILE* openFileForUpdate()
 	return fPtr;
 
 }
-// same what we did in class except it accepts a file poitners and returns it to update our local variable
 FILE* writeTheFile(FILE *fPtr)
 {
 	Customer cust;
